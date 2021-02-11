@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Background
+  - Foreground
+  - Climb
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1351872343
+    locked: 0
+  - name: Climb
+    uniqueID: 1106662185
+    locked: 0
+  - name: Foreground
+    uniqueID: 779797987
     locked: 0
